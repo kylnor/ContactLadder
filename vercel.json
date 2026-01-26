@@ -1,8 +1,0 @@
-{
-  "version": 2,
-  "buildCommand": "echo '[VERCEL LOG] Starting build from root' && cd contactladder && echo '[VERCEL LOG] Changed to contactladder directory' && ls -la && echo '[VERCEL LOG] Running npm run build' && npm run build",
-  "installCommand": "echo '[VERCEL LOG] Installing from root' && cd contactladder && echo '[VERCEL LOG] Installing in contactladder' && npm install",
-  "outputDirectory": "contactladder/.next",
-  "framework": "nextjs",
-  "public": false
-}
