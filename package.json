@@ -3,12 +3,6 @@
   "version": "1.0.0",
   "private": true,
   "scripts": {
-    "dev": "echo '[ROOT LOG] Running dev from contactladder/' && cd contactladder && npm run dev",
-    "build": "echo '[ROOT LOG] Running build from contactladder/' && cd contactladder && npm run build",
-    "start": "echo '[ROOT LOG] Running start from contactladder/' && cd contactladder && npm run start",
-    "vercel-build": "echo '[ROOT LOG] Running vercel-build from contactladder/' && cd contactladder && npm run build"
-  },
-  "workspaces": [
-    "contactladder"
-  ]
+    "postinstall": "cd contactladder && npm install"
+  }
 }
