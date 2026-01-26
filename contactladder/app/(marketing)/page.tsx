@@ -189,7 +189,7 @@ export default function HomePage() {
               </div>
               <div className="text-center text-sm text-gray-600">
                 <p>&copy; 2025 ContactLadder. All rights reserved.</p>
-<parameter name="mt-1 italic text-gray-500">
+                <p className="mt-1 italic text-gray-500">
                   Master your CRM, master your market.
                 </p>
               </div>
