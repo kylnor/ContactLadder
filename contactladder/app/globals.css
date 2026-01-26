@@ -1,0 +1,61 @@
+@import "tailwindcss";
+@plugin "@tailwindcss/typography";
+
+:root {
+  --background: #ffffff;
+  --background-light: #f8f9fa;
+  --foreground: #1a1a1a;
+
+  /* Cloze Brand Colors */
+  --cloze-orange: #F37C5F;
+  --cloze-teal: #4DBDBD;
+  --cloze-red: #E74C3C;
+  --cloze-yellow: #F9C74F;
+  --cloze-blue: #2c66e2;
+
+  /* Monochromatic Palette */
+  --gray-50: #f9fafb;
+  --gray-100: #f3f4f6;
+  --gray-200: #e5e7eb;
+  --gray-300: #d1d5db;
+  --gray-400: #9ca3af;
+  --gray-500: #6b7280;
+  --gray-600: #4b5563;
+  --gray-700: #374151;
+  --gray-800: #1f2937;
+  --gray-900: #111827;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-background-light: var(--background-light);
+  --color-foreground: var(--foreground);
+
+  --color-cloze-orange: var(--cloze-orange);
+  --color-cloze-teal: var(--cloze-teal);
+  --color-cloze-red: var(--cloze-red);
+  --color-cloze-yellow: var(--cloze-yellow);
+  --color-cloze-blue: var(--cloze-blue);
+
+  --color-primary: var(--cloze-blue);
+  --color-primary-hover: #1e4fc2;
+
+  --font-sans: var(--font-lexend), system-ui, -apple-system, sans-serif;
+  --radius-lg: 0.5rem;
+  --radius-xl: 0.75rem;
+  --radius-2xl: 1rem;
+  --radius-3xl: 2rem;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: #111621;
+    --foreground: #ededed;
+  }
+}
+
+body {
+  background: var(--background-light);
+  color: var(--foreground);
+  font-family: var(--font-lexend), system-ui, -apple-system, sans-serif;
+}
