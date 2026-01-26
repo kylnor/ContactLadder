@@ -1,0 +1,7 @@
+{
+  "buildCommand": "cd contactladder && npm run build",
+  "devCommand": "cd contactladder && npm run dev",
+  "installCommand": "cd contactladder && npm install",
+  "framework": "nextjs",
+  "outputDirectory": "contactladder/.next"
+}
