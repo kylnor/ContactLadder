@@ -11,3 +11,4 @@ token.json
 .claude/
 dist/
 build/
+.vercel
