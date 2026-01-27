@@ -1,5 +1,4 @@
 {
-  "buildCommand": "cd contactladder && npm run build",
-  "installCommand": "cd contactladder && npm install",
-  "outputDirectory": "contactladder/.next"
+  "buildCommand": "npm run build",
+  "installCommand": "npm install"
 }
