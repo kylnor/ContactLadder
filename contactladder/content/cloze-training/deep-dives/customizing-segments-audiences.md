@@ -1,3 +1,17 @@
+---
+title: "Customizing Segments & Audiences"
+slug: "customizing-segments-audiences"
+category: "deep-dives"
+orderIndex: 7
+estimatedDuration: "60-75 minutes"
+prerequisites:
+  - "Completed Cloze Essentials (Modules 1-6)"
+  - "Ninja Selling view enabled in Cloze"
+  - "Understanding of default Segments and Tags"
+description: "Master the art of organizing contacts through custom segments and audiences to make Cloze work exactly how you need it."
+published: true
+---
+
 # DEEP DIVE 7: CUSTOMIZING SEGMENTS & AUDIENCES
 
 ## howtoCloze.com / contactladder.com

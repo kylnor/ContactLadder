@@ -1,3 +1,17 @@
+---
+title: "Templates & Campaigns"
+slug: "templates-campaigns"
+category: "deep-dives"
+orderIndex: 3
+estimatedDuration: "60-75 minutes"
+prerequisites:
+  - "Completed Cloze Essentials (or actively using Segments and Mail Merge)"
+  - "Completed Advanced Module A2 (Mail Merge) recommended"
+  - "Cloze Business Platinum Plan (for Campaigns and AI features)"
+description: "Master the Cloze Library to create email templates, automated drip campaigns, and ongoing nurture sequences that run on autopilot."
+published: true
+---
+
 # CLOZE DEEP DIVE: TEMPLATES & CAMPAIGNS
 
 ## howtoCloze.com / contactladder.com

@@ -1,3 +1,16 @@
+---
+title: "Custom Fields"
+slug: "custom-fields"
+category: "deep-dives"
+orderIndex: 8
+estimatedDuration: "45-60 minutes"
+prerequisites:
+  - "Completed Essentials (Modules 1-6)"
+  - "Understanding of basic contact management"
+description: "Master custom fields to capture the unique data your business needs beyond Cloze's default fields."
+published: true
+---
+
 # DEEP DIVE 8: CUSTOM FIELDS
 
 ## howtoCloze.com / contactladder.com

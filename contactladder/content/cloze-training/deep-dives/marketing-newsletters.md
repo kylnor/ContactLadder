@@ -1,3 +1,17 @@
+---
+title: "Marketing Newsletters"
+slug: "marketing-newsletters"
+category: "deep-dives"
+orderIndex: 6
+estimatedDuration: "60-75 minutes"
+prerequisites:
+  - "Completed Cloze Essentials (or actively using Mail Merge)"
+  - "Completed Advanced Module A2 (Mail Merge) recommended"
+  - "Cloze Business Platinum Plan (Marketing Email feature required)"
+description: "Master Cloze Marketing Email to create beautiful, professional newsletters with images, branding, and AI-generated content that look amazing on every device."
+published: true
+---
+
 # CLOZE DEEP DIVE: MARKETING NEWSLETTERS
 
 ## howtoCloze.com / contactladder.com

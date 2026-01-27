@@ -1,3 +1,16 @@
+---
+title: "Notes & Activity Logging"
+slug: "notes-activity-logging"
+category: "mini-guides"
+orderIndex: 3
+estimatedDuration: "15-20 minutes"
+prerequisites:
+  - "Completed Essentials Modules 1-4"
+  - "Email/Phone/Calendar connected"
+description: "Master the art of capturing every client conversation, showing, and interaction so you never forget important details."
+published: true
+---
+
 # MINI-MODULE: NOTES & ACTIVITY LOGGING
 
 ## howtoCloze.com / contactladder.com

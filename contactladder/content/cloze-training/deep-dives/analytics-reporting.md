@@ -1,3 +1,17 @@
+---
+title: "Analytics & Reporting"
+slug: "analytics-reporting"
+category: "deep-dives"
+orderIndex: 9
+estimatedDuration: "60-75 minutes"
+prerequisites:
+  - "Completed Cloze Essentials"
+  - "At least 3 months of data in Cloze"
+  - "Cloze Business Platinum Plan (for advanced analytics)"
+description: "Master Cloze analytics to measure what's working, track pipeline performance, analyze lead sources, and make data-driven business decisions."
+published: true
+---
+
 # DEEP DIVE 9: ANALYTICS & REPORTING
 
 ## howtoCloze.com / contactladder.com

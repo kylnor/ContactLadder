@@ -1,3 +1,16 @@
+---
+title: "Task Lists"
+slug: "task-lists"
+category: "deep-dives"
+orderIndex: 2
+estimatedDuration: "30-45 minutes"
+prerequisites:
+  - "Completed Cloze Essentials (or actively using Segments and Stages)"
+  - "Understanding of your current buyer/seller process"
+description: "Master Next Steps and Task Lists to create custom buyer/seller workflows that move clients through your process automatically."
+published: true
+---
+
 # CLOZE DEEP DIVE: TASK LISTS
 
 ## howtoCloze.com / contactladder.com

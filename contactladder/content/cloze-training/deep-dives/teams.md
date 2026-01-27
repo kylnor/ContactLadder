@@ -1,3 +1,17 @@
+---
+title: "Teams"
+slug: "teams"
+category: "deep-dives"
+orderIndex: 5
+estimatedDuration: "45-60 minutes"
+prerequisites:
+  - "Completed Cloze Essentials (or actively using Cloze)"
+  - "Team features available on your Cloze plan (check plan details)"
+  - "Admin permissions (for some features)"
+description: "Master team collaboration in Cloze—share contacts, delegate tasks, coordinate on deals, and ensure everyone stays aligned without stepping on toes."
+published: true
+---
+
 # CLOZE DEEP DIVE: TEAMS
 
 ## howtoCloze.com / contactladder.com

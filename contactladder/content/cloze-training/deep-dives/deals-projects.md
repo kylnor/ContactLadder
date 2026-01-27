@@ -1,3 +1,16 @@
+---
+title: "Deals & Projects"
+slug: "deals-projects"
+category: "deep-dives"
+orderIndex: 10
+estimatedDuration: "45-60 minutes"
+prerequisites:
+  - "Completed Cloze Essentials"
+  - "Understanding of Cloze Properties feature (Deep Dive 1 recommended)"
+description: "Master the Deals and Projects feature to track business opportunities, manage pipelines, and organize complex multi-contact initiatives."
+published: true
+---
+
 # DEEP DIVE 10: DEALS & PROJECTS
 
 ## howtoCloze.com / contactladder.com

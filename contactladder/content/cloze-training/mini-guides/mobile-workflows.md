@@ -1,3 +1,17 @@
+---
+title: "Mobile Workflows"
+slug: "mobile-workflows"
+category: "mini-guides"
+orderIndex: 1
+estimatedDuration: "30-40 minutes"
+prerequisites:
+  - "Completed Cloze Essentials"
+  - "Cloze mobile app installed"
+  - "Email/Phone/Calendar connected"
+description: "Master Cloze on mobile to manage your database, communicate with clients, and stay productive from anywhere."
+published: true
+---
+
 # MOBILE WORKFLOWS MINI-COURSE
 
 ## howtoCloze.com / contactladder.com

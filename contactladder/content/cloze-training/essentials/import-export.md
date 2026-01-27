@@ -1,3 +1,17 @@
+---
+title: "Import & Export"
+slug: "import-export"
+category: "essentials"
+orderIndex: 5
+estimatedDuration: "10-15 minutes"
+prerequisites:
+  - "Cloze account created"
+  - "Email/Phone/Calendar connected (Module 0A-0C)"
+  - "Ninja Selling view enabled (Module 0D)"
+description: "Get your existing contacts into Cloze quickly and accurately, and know how to export data when you need it."
+published: true
+---
+
 # ESSENTIALS MODULE 0E: IMPORT & EXPORT CONTACTS
 
 ## howtoCloze.com / contactladder.com

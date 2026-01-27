@@ -1,3 +1,17 @@
+---
+title: "Cloze AI Mastery"
+slug: "cloze-ai-mastery"
+category: "deep-dives"
+orderIndex: 4
+estimatedDuration: "60-90 minutes"
+prerequisites:
+  - "Completed Advanced Module A4 (MAIA Basics)"
+  - "Cloze Business Platinum Plan or above (MAIA required)"
+  - "Understanding of basic MAIA features (drafting emails, summarizing contacts)"
+description: "Master MAIA (your AI assistant) and all Cloze AI features to automate writing, research, marketing creation, and contact management."
+published: true
+---
+
 # CLOZE DEEP DIVE: CLOZE AI MASTERY
 
 ## howtoCloze.com / contactladder.com

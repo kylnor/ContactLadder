@@ -1,3 +1,16 @@
+---
+title: "Email Tracking & Signatures"
+slug: "email-tracking-signatures"
+category: "deep-dives"
+orderIndex: 11
+estimatedDuration: "20-25 minutes"
+prerequisites:
+  - "Completed Advanced Module A2: Mail Merge"
+  - "Email connected to Cloze"
+description: "Master email open tracking, link click tracking, and professional email signatures to know exactly when clients engage with your messages."
+published: true
+---
+
 # ADVANCED MODULE A2 EXPANSION: EMAIL TRACKING & SIGNATURES
 
 ## howtoCloze.com / contactladder.com

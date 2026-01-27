@@ -1,3 +1,16 @@
+---
+title: "Settings & Preferences"
+slug: "settings-preferences"
+category: "mini-guides"
+orderIndex: 2
+estimatedDuration: "20-30 minutes"
+prerequisites:
+  - "Cloze account (any plan)"
+  - "Completed Essentials recommended"
+description: "Configure Cloze settings to match your work style, reduce distractions, and optimize productivity."
+published: true
+---
+
 # SETTINGS & PREFERENCES MINI-GUIDE
 
 ## howtoCloze.com / contactladder.com

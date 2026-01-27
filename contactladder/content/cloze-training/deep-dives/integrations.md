@@ -1,3 +1,17 @@
+---
+title: "Integrations"
+slug: "integrations"
+category: "deep-dives"
+orderIndex: 12
+estimatedDuration: "60-75 minutes"
+prerequisites:
+  - "Cloze account with Ninja Selling view enabled"
+  - "Accounts with the respective integration platforms"
+  - "Understanding of basic Cloze functionality"
+description: "Master key real estate integrations including Zillow, dotloop, SkySlope, and Spacio to connect your entire tech stack with Cloze."
+published: true
+---
+
 # CONNECTIONS HUB EXPANSION: ADDITIONAL INTEGRATIONS
 
 ## howtoCloze.com / contactladder.com

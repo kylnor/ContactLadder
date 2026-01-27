@@ -1,3 +1,17 @@
+---
+title: "Properties"
+slug: "properties"
+category: "deep-dives"
+orderIndex: 1
+estimatedDuration: "45-60 minutes"
+prerequisites:
+  - "Completed Cloze Essentials (or actively using Segments, Stages, and Agenda)"
+  - "Cloze Business Platinum Plan"
+  - "Brokerage licensing agreement for MLS integration (contact support@cloze.com)"
+description: "Master Cloze Properties to track listings, match buyers to properties, and manage transactions from listing to close."
+published: true
+---
+
 # CLOZE DEEP DIVE: PROPERTIES
 
 ## howtoCloze.com / contactladder.com

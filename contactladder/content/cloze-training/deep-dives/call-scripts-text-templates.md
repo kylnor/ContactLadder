@@ -1,3 +1,16 @@
+---
+title: "Call Scripts & Text Templates"
+slug: "call-scripts-text-templates"
+category: "deep-dives"
+orderIndex: 13
+estimatedDuration: "30-40 minutes"
+prerequisites:
+  - "Completed Cloze Essentials"
+  - "Active client conversations"
+description: "Standardize your communication for consistency and speed with call scripts and text templates."
+published: true
+---
+
 # DEEP DIVE 3 - MODULE 7: CALL SCRIPTS & TEXT TEMPLATES
 
 ## Expansion for Templates & Campaigns Deep Dive
